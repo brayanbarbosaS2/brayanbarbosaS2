@@ -1,16 +1,15 @@
-### Hi there 👋
+### Boas vindas ao meu perfil 🥇
 
-<!--
-**brayanbarbosaS2/brayanbarbosaS2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é  Brayan Barbosa
 
-Here are some ideas to get you started:
+- Estou estudando na [Alura](https://www.alura.com.br)
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### _Você pode entrar em contato comigo_ 📫
+
+barbosa.santos.brayan@escola.pr.gov.br
+
+@brayanbarbosa
+
+![](https://media.tenor.com/Ro3kqv2CPmYAAAAM/sleeping-sleep.gif)
