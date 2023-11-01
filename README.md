@@ -12,4 +12,5 @@ barbosa.santos.brayan@escola.pr.gov.br
 
 @brayanbarbosa
 
-!(https://media.tenor.com/PKKCAakpBZIAAAAC/neyney-neymar.gif)
+!()
+
